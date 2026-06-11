@@ -25,8 +25,7 @@ interview — all from the same code.
 | 08 | Dimensionality reduction | PCA on customer/portfolio features | ⬜ |
 | 09 | LLMs (generative + agentic AI) | Document Q&A / agentic workflows + their risks | ⬜ |
 
-> You listed Classification first; we started with **Regression** as you asked.
-> Order can be rearranged freely — modules don't depend on each other.
+
 
 ## Setup (once)
 ```bash
