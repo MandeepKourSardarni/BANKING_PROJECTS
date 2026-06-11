@@ -16,7 +16,7 @@ interview — all from the same code.
 | # | Module | Banking project | Status |
 |---|--------|-----------------|--------|
 | 01 | **Regression** | Predict expected loss on defaulted loans (the "L" in PD/LGD/EAD) | ✅ done |
-| 02 | Classification | Probability of Default (PD) — will this loan go bad? | ⬜ next |
+| 02 | Classification | Probability of Default (PD) — will this loan go bad? | ✅ done |
 | 03 | Anomaly detection | Unusual transactions / accounts | ⬜ |
 | 04 | Natural Language Processing | Classify customer complaints / extract info | ⬜ |
 | 05 | Computer vision | Cheque / document image processing | ⬜ |
