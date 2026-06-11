@@ -1,0 +1,7 @@
+# If you use Anaconda, most of these are already installed.
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+scipy>=1.11
+notebook>=7.0
